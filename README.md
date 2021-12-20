@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikael-Lelouch
-- 👀 I’m interested in BlockChain-Artificial Intelligence and Cloud
-- 🌱 I’m currently learning DevOPs Practice and BlockChhain
+- 👀 I’m interested in BlockChain-Artificial Intelligence and Cloud and VMware Product
+- 🌱 I’m currently learning DevSecOps Practice and BlockChhain
 - 📫 How to reach me on Twitter @mikael8313 - Linkedin https://www.linkedin.com/in/mikaellelouch/  - e-mail mikael.lelouch@gmail.com
 
 <!---
